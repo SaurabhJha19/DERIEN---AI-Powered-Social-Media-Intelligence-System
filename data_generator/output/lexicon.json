@@ -1,0 +1,41 @@
+{
+  "slang": [
+    {
+      "token": "green",
+      "meaning": "marijuana",
+      "confidence": 0.9
+    },
+    {
+      "token": "stash",
+      "meaning": "drugs",
+      "confidence": 0.85
+    },
+    {
+      "token": "plug",
+      "meaning": "dealer",
+      "confidence": 0.8
+    },
+    {
+      "token": "drop",
+      "meaning": "delivery",
+      "confidence": 0.75
+    }
+  ],
+  "emojis": [
+    {
+      "token": "\ud83c\udf3f",
+      "meaning": "weed",
+      "confidence": 0.85
+    },
+    {
+      "token": "\ud83d\udc8a",
+      "meaning": "pills",
+      "confidence": 0.9
+    },
+    {
+      "token": "\u2744\ufe0f",
+      "meaning": "cocaine",
+      "confidence": 0.9
+    }
+  ]
+}
