@@ -1,8 +1,10 @@
-# 🔮 DERIEN — Intelligence & Risk Analysis Platform
+# 🔮 DERIEN — AI-Powered Social Media Intelligence System
 
-**DERIEN** is an OSINT-inspired intelligence platform that detects, analyzes, and explains high-risk users and content using content signals, behavioral patterns, and network relationships.
-
-Unlike simple scoring systems, DERIEN focuses on **explainability**, **adaptive risk classification**, and **investigator-friendly workflows**.
+**DERIEN** is an AI-driven cyber-intelligence system that detects, analyzes, and maps
+drug trafficking activity on social media platforms by identifying suspicious
+content, behavioural patterns, and hidden user networks—without
+requiring access to private data. This program uses an open-source
+intelligence (OSINT) + AI + cybersecurity analytics software system
 
 ---
 
